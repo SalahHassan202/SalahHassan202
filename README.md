@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **salahhassan66190@gmail.com**
-
 - ⚡ Fun fact **Every day is a chance to learn something new**
 
 <h3 align="left">Connect with me:</h3>
