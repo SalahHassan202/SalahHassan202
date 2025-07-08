@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently Learning **Flutter Development**
 
-- 💬 Ask me about **anything**
-
 - ⚡ Fun fact **Every day is a chance to learn something new**
 
 <h3 align="left">Connect with me:</h3>
