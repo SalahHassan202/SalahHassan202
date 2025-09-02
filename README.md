@@ -19,7 +19,7 @@
 
 ## 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,git,github,html,css,js,python,java,cpp,c,figma,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,git,github,html,css,python,java,cpp,c,kotlin,figma,xd,canva,vscode,linux,sqlite" />
 </p>
 
 ---
@@ -47,19 +47,19 @@
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=salahhassan&theme=radical&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SalahHassan202&theme=radical&row=1&column=6" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salahhassan&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salahhassan&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SalahHassan202&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalahHassan202&theme=radical" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salahhassan&theme=react-dark&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SalahHassan202&theme=react-dark&hide_border=true&area=true" width="95%"/>
 </p>
 
 ---
