@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Flutter+Developer+💙;Mobile+App+Enthusiast+📱;Problem+Solver+💡;Always+Learning+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+App+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
 </p>
 
 ---
@@ -29,10 +29,10 @@
   <a href="mailto:salahhassan66190@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/salahhassan" target="_blank">
+  <a href="https://www.linkedin.com/in/salah-hassan66190" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://fb.com/salahhassan" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=100056831466137&mibextid=ZbWKwL" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://t.me/Salah_Hassan2" target="_blank">
