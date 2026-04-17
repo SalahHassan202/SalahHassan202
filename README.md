@@ -46,16 +46,19 @@
 ---
 
 ## 🏆 GitHub Trophies  
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SalahHassan202&theme=radical&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SalahHassan202&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
 </p>
 
 ---
 
+
 ## 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SalahHassan202&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalahHassan202&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SalahHassan202&show_icons=true&theme=radical&cache_seconds=1800" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=SalahHassan202&theme=radical&cache_seconds=1800" height="160"/>
 </p>
 
 <p align="center">
